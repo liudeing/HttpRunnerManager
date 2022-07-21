@@ -118,3 +118,9 @@
 2022-07-14 17:10:21,692 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function suite_list at 0x000001B841904D08>
 2022-07-14 17:10:29,568 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'report_list', 'id': '1'}
 2022-07-14 17:10:29,572 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function report_list at 0x000001B841904378>
+2022-07-21 10:45:12,327 [django.request:228] [log:log_response] [WARNING]- Not Found: /
+2022-07-21 10:45:43,372 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-21 10:45:50,810 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-21 10:45:52,940 [HttpRunnerManager:58] [views:login] [INFO]- admin 登录成功
+2022-07-21 10:45:53,031 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-21 10:45:53,035 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000002B0B8641268>
