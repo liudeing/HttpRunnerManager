@@ -1,0 +1,120 @@
+2022-07-13 16:38:52,912 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-13 16:39:03,552 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-13 16:39:05,634 [HttpRunnerManager:58] [views:login] [INFO]- admin 登录成功
+2022-07-13 16:39:05,720 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-13 16:39:05,723 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000002359358D840>
+2022-07-13 16:39:14,966 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'project_list', 'id': '1'}
+2022-07-13 16:39:14,975 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function project_list at 0x0000023593595158>
+2022-07-13 16:51:41,149 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'project_list', 'id': '1'}
+2022-07-13 16:51:41,152 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function project_list at 0x0000023593595158>
+2022-07-13 17:43:48,700 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'project_list', 'id': '1'}
+2022-07-13 17:43:48,717 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function project_list at 0x0000023593595158>
+2022-07-13 17:44:27,374 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'project_list', 'id': '1'}
+2022-07-13 17:44:27,389 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function project_list at 0x0000023593595158>
+2022-07-13 17:44:46,214 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'project_list', 'id': '1'}
+2022-07-13 17:44:46,240 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function project_list at 0x0000023593595158>
+2022-07-13 17:45:49,583 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_project'}
+2022-07-13 17:45:49,593 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_project at 0x000002359358DA60>
+2022-07-13 17:45:56,666 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'module_list', 'id': '1'}
+2022-07-13 17:45:56,677 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function module_list at 0x0000023593595268>
+2022-07-13 17:46:06,147 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_project'}
+2022-07-13 17:46:06,150 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_project at 0x000002359358DA60>
+2022-07-13 17:54:52,337 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_project'}
+2022-07-13 17:54:52,342 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_project at 0x000002359358DA60>
+2022-07-13 17:56:20,905 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_project'}
+2022-07-13 17:56:20,908 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_project at 0x000002359358DA60>
+2022-07-13 17:56:28,299 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'debugtalk_list', 'id': '1'}
+2022-07-13 17:56:28,302 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function debugtalk_list at 0x000002359359DEA0>
+2022-07-13 17:56:36,828 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'module_list', 'id': '1'}
+2022-07-13 17:56:36,831 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function module_list at 0x0000023593595268>
+2022-07-13 17:56:49,550 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_module'}
+2022-07-13 17:56:49,554 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_module at 0x000002359358D9D8>
+2022-07-13 17:56:58,786 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_case'}
+2022-07-13 17:56:58,790 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_case at 0x000002359358DAE8>
+2022-07-13 17:57:08,027 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'test_list', 'id': '1'}
+2022-07-13 17:57:08,043 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function test_list at 0x0000023593595620>
+2022-07-13 17:57:10,375 [HttpRunnerManager:416] [views:test_list] [INFO]- filter_query:{'user': '', 'name': '', 'belong_project': 'All', 'belong_module': '请选择', 'report_name': ''}
+2022-07-13 17:57:12,953 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_case'}
+2022-07-13 17:57:12,956 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_case at 0x000002359358DAE8>
+2022-07-13 17:57:15,475 [HttpRunnerManager:188] [views:add_case] [INFO]- testcase_info:{'test': {'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}}
+2022-07-13 17:57:15,477 [HttpRunnerManager:233] [common:case_info_logic] [INFO]- common 中的 test:{'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}
+2022-07-13 17:57:20,802 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'robot_case_list', 'id': '1'}
+2022-07-13 17:57:20,805 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function robot_case_list at 0x00000235935A4D90>
+2022-07-13 17:57:23,175 [HttpRunnerManager:908] [views:robot_case_list] [INFO]- filter_query:{'user': '', 'name': '', 'belong_project': 'All', 'belong_module': '请选择', 'report_name': ''}
+2022-07-13 17:57:32,535 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_config'}
+2022-07-13 17:57:32,538 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_config at 0x000002359358DD08>
+2022-07-13 17:57:41,097 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'config_list', 'id': '1'}
+2022-07-13 17:57:41,099 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function config_list at 0x00000235935959D8>
+2022-07-13 17:57:46,734 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_case'}
+2022-07-13 17:57:46,751 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_case at 0x000002359358DAE8>
+2022-07-13 17:57:49,092 [HttpRunnerManager:188] [views:add_case] [INFO]- testcase_info:{'test': {'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}}
+2022-07-13 17:57:49,149 [HttpRunnerManager:233] [common:case_info_logic] [INFO]- common 中的 test:{'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}
+2022-07-13 17:59:49,674 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'report_list', 'id': '1'}
+2022-07-13 17:59:49,718 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function report_list at 0x000002359359D0D0>
+2022-07-13 18:02:09,130 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-13 18:02:09,133 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000002359358D840>
+2022-07-13 18:02:20,811 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'test_list', 'id': '1'}
+2022-07-13 18:02:20,875 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function test_list at 0x0000023593595620>
+2022-07-13 18:02:22,956 [HttpRunnerManager:416] [views:test_list] [INFO]- filter_query:{'user': '', 'name': '', 'belong_project': 'All', 'belong_module': '请选择', 'report_name': ''}
+2022-07-13 18:02:24,317 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_case'}
+2022-07-13 18:02:24,324 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_case at 0x000002359358DAE8>
+2022-07-13 18:02:26,372 [HttpRunnerManager:188] [views:add_case] [INFO]- testcase_info:{'test': {'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}}
+2022-07-13 18:02:26,377 [HttpRunnerManager:233] [common:case_info_logic] [INFO]- common 中的 test:{'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}
+2022-07-13 18:02:27,520 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-13 18:02:27,532 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000002359358D840>
+2022-07-14 09:18:25,773 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'test_list', 'id': '1'}
+2022-07-14 09:18:32,778 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function test_list at 0x000001B841903C80>
+2022-07-14 09:18:32,986 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-14 09:18:36,911 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-14 09:18:39,333 [HttpRunnerManager:58] [views:login] [INFO]- admin 登录成功
+2022-07-14 09:18:39,492 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 09:18:39,519 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 09:20:30,228 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'project_list', 'id': '1'}
+2022-07-14 09:20:30,236 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function project_list at 0x000001B841903A60>
+2022-07-14 09:20:40,112 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_project'}
+2022-07-14 09:20:40,192 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_project at 0x000001B841903400>
+2022-07-14 09:20:49,853 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'project_list', 'id': '1'}
+2022-07-14 09:20:49,864 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function project_list at 0x000001B841903A60>
+2022-07-14 09:21:01,842 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'module_list', 'id': '1'}
+2022-07-14 09:21:01,847 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function module_list at 0x000001B841903B70>
+2022-07-14 09:21:13,601 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_module'}
+2022-07-14 09:21:13,604 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_module at 0x000001B841903510>
+2022-07-14 09:21:21,852 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'module_list', 'id': '1'}
+2022-07-14 09:21:21,854 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function module_list at 0x000001B841903B70>
+2022-07-14 09:21:30,025 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'test_list', 'id': '1'}
+2022-07-14 09:21:30,029 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function test_list at 0x000001B841903C80>
+2022-07-14 09:21:32,335 [HttpRunnerManager:416] [views:test_list] [INFO]- filter_query:{'user': '', 'name': '', 'belong_project': 'All', 'belong_module': '请选择', 'report_name': ''}
+2022-07-14 09:21:37,589 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'add_case'}
+2022-07-14 09:21:37,597 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function add_case at 0x000001B841903620>
+2022-07-14 09:21:40,121 [HttpRunnerManager:188] [views:add_case] [INFO]- testcase_info:{'test': {'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}}
+2022-07-14 09:21:40,131 [HttpRunnerManager:233] [common:case_info_logic] [INFO]- common 中的 test:{'name': {'project': 'All', 'name': '', 'user': ''}, 'type': 'module'}
+2022-07-14 09:26:20,946 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-14 09:26:30,794 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-14 09:26:33,210 [HttpRunnerManager:58] [views:login] [INFO]- admin 登录成功
+2022-07-14 09:26:33,341 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 09:26:33,343 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 16:16:12,910 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 16:16:12,979 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 16:16:13,159 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-14 16:16:23,940 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'login'}
+2022-07-14 16:16:26,047 [HttpRunnerManager:58] [views:login] [INFO]- admin 登录成功
+2022-07-14 16:16:26,135 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 16:16:26,140 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 16:33:38,442 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 16:33:38,444 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 16:33:42,224 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 16:33:42,242 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 16:40:30,530 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 16:40:30,537 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 17:02:05,155 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 17:02:05,164 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 17:09:36,611 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'index'}
+2022-07-14 17:09:36,642 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function index at 0x000001B8419032F0>
+2022-07-14 17:09:52,124 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'report_list', 'id': '1'}
+2022-07-14 17:09:52,133 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function report_list at 0x000001B841904378>
+2022-07-14 17:10:10,947 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'periodictask', 'id': '1'}
+2022-07-14 17:10:10,950 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function periodictask at 0x000001B841904598>
+2022-07-14 17:10:21,657 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'suite_list', 'id': '1'}
+2022-07-14 17:10:21,692 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function suite_list at 0x000001B841904D08>
+2022-07-14 17:10:29,568 [HttpRunnerManager:6] [activator:process] [INFO]- 请求详细参数kwargs：{'app': 'api', 'function': 'report_list', 'id': '1'}
+2022-07-14 17:10:29,572 [HttpRunnerManager:39] [views:wrapper] [INFO]- func的值为：<function report_list at 0x000001B841904378>

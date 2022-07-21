@@ -1,0 +1,20 @@
+alter table envinfo add COLUMN user_account varchar(20) NULL COMMENT '用户账号' ;
+alter table moduleinfo add COLUMN user_account varchar(20) NULL COMMENT '用户账号' ;
+alter table projectinfo add COLUMN user_account varchar(20) NULL COMMENT '用户账号' ;
+alter table testcaseinfo add COLUMN user_account varchar(20) NULL COMMENT '用户账号' ;
+alter table testreports add COLUMN user_account varchar(20) NULL COMMENT '用户账号' ;
+alter table testsuite add COLUMN user_account varchar(20) NULL COMMENT '用户账号' ;
+alter table debugtalk add COLUMN user_account varchar(20) NULL COMMENT '用户账号' ;
+
+CREATE TABLE `robot_testcase` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+	`project_name` varchar(50) NOT NULL COMMENT '项目名称',
+	`test_user` varchar(20) NOT NULL COMMENT '测试负责人',
+	`files` longtext DEFAULT NULL COMMENT '子级文件列表',
+	`project_path` varchar(1024) DEFAULT NULL COMMENT '项目保存路径',
+  `create_time` datetime(6) NOT NULL COMMENT '创建时间',
+  `update_time` datetime(6) NOT NULL COMMENT '修改时间',
+	`last_run_time` datetime(6) DEFAULT NULL COMMENT '上次运行时间',
+	`user_account` varchar(20) DEFAULT NULL COMMENT '用户账号',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=140 DEFAULT CHARSET=utf8;
